@@ -1,6 +1,5 @@
-from pyRestAPI.repository import profile_repo
+from pyRestAPI.src.repository import profile_repo
 import json
-
 
 
 def get_profiles_service():

@@ -1,0 +1,6 @@
+Flask==1.1.1
+pandas==1.2.4
+pip==21.0.1
+pyodbc==4.0.30
+python==3.7.10
+werkzeug==1.0.1
