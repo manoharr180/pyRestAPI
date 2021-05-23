@@ -1,4 +1,4 @@
-from shared.db_repository import fetch_many_records, fetch_one_record, insert_many_record, insert_one_record
+from pyRestAPI.shared.db_repository import fetch_many_records, fetch_one_record, insert_many_record, insert_one_record
 from datetime import datetime
 import pandas as pd
 import json

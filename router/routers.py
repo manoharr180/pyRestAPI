@@ -1,4 +1,4 @@
-from controller import profileController
+from pyRestAPI.controller import profileController
 from flask import make_response
 
 

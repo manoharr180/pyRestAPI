@@ -1,6 +1,5 @@
 from flask import Flask
-
-from router import routers
+from pyRestAPI.router import routers
 
 app = Flask(__name__)
 

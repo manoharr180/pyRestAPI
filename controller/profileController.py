@@ -1,4 +1,4 @@
-from services.profile_service import get_profiles_service, get_profile_service, get_one_profile, insert_profile_service
+from pyRestAPI.services.profile_service import get_profiles_service, get_profile_service, get_one_profile, insert_profile_service
 from flask import Response, request
 import json
 

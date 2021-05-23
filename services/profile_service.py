@@ -1,4 +1,4 @@
-from repository import profile_repo
+from pyRestAPI.repository import profile_repo
 import json
 
 
