@@ -1,5 +1,4 @@
-from pyRestAPI.controller import profileController
-from flask import make_response
+from pyRestAPI.src.controller import profileController
 
 
 def init_route(app):

@@ -1,7 +1,7 @@
-from pyRestAPI.shared.db_repository import fetch_many_records, fetch_one_record, insert_many_record, insert_one_record
+from pyRestAPI.src.shared.db_repository import fetch_many_records, fetch_one_record, insert_many_record, insert_one_record
 from datetime import datetime
 import pandas as pd
-import json
+
 
 def fetch_profiles():
     query = "select * from Profile_Details"
