@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f81e03e-36b3-4fdc-9037-1cf7ddad399a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Dbscript/dbscript.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DockerDemo/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DockerDemo/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DockerDemo/src/startup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/startup.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
