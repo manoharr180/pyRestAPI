@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f81e03e-36b3-4fdc-9037-1cf7ddad399a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nginx/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nginx/nginx.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/src/startup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Beginners.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Beginners.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controller/profileController.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repository/profile_repo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/router/routers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/services/profile_service.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/db_repository.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shared/dbconnection.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/startup.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/index.html" beforeDir="false" />
-    </list>
+    <list default="true" id="2f81e03e-36b3-4fdc-9037-1cf7ddad399a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
