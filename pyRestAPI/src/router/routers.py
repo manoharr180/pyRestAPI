@@ -3,6 +3,9 @@ from pyRestAPI.src.controller import profileController
 
 def init_route(app):
     @app.route("/")
+    def main():
+        return "Hello world"
+
     @app.route("/api/v1/profileController/get_profiles", methods=['GET'])
     def get_profiles():
         return profileController.get_profiles()

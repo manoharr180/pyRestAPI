@@ -1,0 +1,9 @@
+services:
+  userservice:
+    build: test
+  webservice:
+    build: nginx
+    ports:
+      - "8000:8000"
+
+
