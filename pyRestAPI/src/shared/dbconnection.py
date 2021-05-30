@@ -11,7 +11,7 @@ class DBConnection:
     @staticmethod
     def get_db_conn():
         conn = pyodbc.connect('Driver={SQL Server};'
-                              'Server=DESKTOP-C5T1JA7\\SQLEXPRESS;'
+                              'Server=DESKTOP-ABC123\\SQLEXPRESS;'
                               'Database=GeoLens;'
                               'Trusted_Connection=yes;')
         return conn
